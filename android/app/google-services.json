@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "74797194690",
+    "project_id": "mrandmrs-mobile",
+    "storage_bucket": "mrandmrs-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74797194690:android:dff1b5a40e5b1ddd4b8a5b",
+        "android_client_info": {
+          "package_name": "com.example.mr_and_mrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74797194690-3s8uumhk90v8f967m1hrhpg6oe3p9r0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mr_and_mrs",
+            "certificate_hash": "7f911e1a73e924fa54dd9c82b4c9c44a4c4ad6be"
+          }
+        },
+        {
+          "client_id": "74797194690-j7sbschpu5mqh9i4d5hfg50suqi4jmn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8lV0wpzuwvBU5N4Kpm_1-3KdchIk8gjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74797194690-j7sbschpu5mqh9i4d5hfg50suqi4jmn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
